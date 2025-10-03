@@ -361,6 +361,8 @@ mod tests {
     }
 }
  */
+
+/*
 ////////////////////////////////////
 /*
    GENERATING RANDOM PROBABILITIES FROM RANDOM BYTES
@@ -417,3 +419,4 @@ fn main() {
     println!("mid of input range: {:08b} -> {:?}", 0x7f, mock_rand(0x7f));
     println!("min of input range: {:08b} -> {:?}", 0x00, mock_rand(0x00));
 }
+ */
