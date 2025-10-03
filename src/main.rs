@@ -420,3 +420,5 @@ fn main() {
     println!("min of input range: {:08b} -> {:?}", 0x00, mock_rand(0x00));
 }
  */
+
+fn main() {}

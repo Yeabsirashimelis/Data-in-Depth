@@ -3,7 +3,6 @@
 This repository contains **notes, explanations, and code examples** from the *Data in Depth* chapter.
 It focuses on **data representation, integer and floating-point behavior, fixed-point numbers**, and **efficient bit-level manipulations**.
 
-> Section 5.7 (Final Project) is excluded.
 
 ---
 
